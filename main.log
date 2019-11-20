@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.9)  3 NOV 2019 20:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.9)  20 NOV 2019 16:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -90,8 +90,9 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
 \c@LT@chunks=\count95
 \LT@p@ftn=\toks16
 ) (./main.aux
-(./frontespizio.aux) (./revision_history.aux) (./section1.aux) (./section2.aux)
-(./section3.aux) (./section4.aux) (./section5.aux))
+(./frontespizio.aux) (./revision_history.aux) (./software_list.aux)
+(./data_types_format.aux) (./data_storage_access.aux)
+(./directory_structure.aux) (./file_naming_conventions.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -205,24 +206,25 @@ e
 
 
 (./frontespizio.tex
-<images/unimi_logo.png, id=1, 389.455pt x 130.4875pt>
-File: images/unimi_logo.png Graphic file (type png)
-<use images/unimi_logo.png>
-Package pdftex.def Info: images/unimi_logo.png  used on input line 7.
+<images/logos/unimi_logo.png, id=1, 389.455pt x 130.4875pt>
+File: images/logos/unimi_logo.png Graphic file (type png)
+<use images/logos/unimi_logo.png>
+Package pdftex.def Info: images/logos/unimi_logo.png  used on input line 7.
 (pdftex.def)             Requested size: 128.0387pt x 42.89774pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 8.
-<images/pong_logo.png, id=2, 192.72pt x 48.18pt>
-File: images/pong_logo.png Graphic file (type png)
-<use images/pong_logo.png>
-Package pdftex.def Info: images/pong_logo.png  used on input line 11.
+<images/logos/pong_logo.png, id=2, 192.72pt x 48.18pt>
+File: images/logos/pong_logo.png Graphic file (type png)
+<use images/logos/pong_logo.png>
+Package pdftex.def Info: images/logos/pong_logo.png  used on input line 11.
 (pdftex.def)             Requested size: 128.0387pt x 32.00912pt.
-<images/demonparty_logo.jpg, id=4, 427.5975pt x 427.5975pt>
-File: images/demonparty_logo.jpg Graphic file (type jpg)
-<use images/demonparty_logo.jpg>
-Package pdftex.def Info: images/demonparty_logo.jpg  used on input line 24.
+<images/logos/demonparty_logo.jpg, id=4, 427.5975pt x 427.5975pt>
+File: images/logos/demonparty_logo.jpg Graphic file (type jpg)
+<use images/logos/demonparty_logo.jpg>
+Package pdftex.def Info: images/logos/demonparty_logo.jpg  used on input line 2
+4.
 (pdftex.def)             Requested size: 298.75264pt x 298.74857pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 28--30
@@ -243,12 +245,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--36
 
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-s/unimi_logo.png> <./images/pong_logo.png> <./images/demonparty_logo.jpg>]
+s/logos/unimi_logo.png> <./images/logos/pong_logo.png> <./images/logos/demonpar
+ty_logo.jpg>]
 \openout2 = `revision_history.aux'.
 
-
-(./revision_history.tex
-Overfull \hbox (7.54721pt too wide) in paragraph at lines 26--43
+ (./revision_history.tex
+Overfull \hbox (7.54721pt too wide) in paragraph at lines 26--37
  [] 
  []
 
@@ -262,54 +264,56 @@ Overfull \hbox (7.54721pt too wide) in paragraph at lines 26--43
  [3
 
 ]
-\openout2 = `section1.aux'.
+\openout2 = `software_list.aux'.
 
- (./section1.tex) [4
-
-]
-\openout2 = `section2.aux'.
-
- (./section2.tex) [5
-
+ (./software_list.tex) [4
 
 ]
-\openout2 = `section3.aux'.
+\openout2 = `data_types_format.aux'.
 
-
-(./section3.tex) [6
+ (./data_types_format.tex)
+[5
 
 
 ]
-\openout2 = `section4.aux'.
+\openout2 = `data_storage_access.aux'.
 
- (./section4.tex) [7
+ (./data_storage_access.tex) [6
 
 
 ]
-\openout2 = `section5.aux'.
+\openout2 = `directory_structure.aux'.
 
- (./section5.tex) [8
+ (./directory_structure.tex) [7
 
 
-] (./main.aux
-(./frontespizio.aux) (./revision_history.aux) (./section1.aux) (./section2.aux)
-(./section3.aux) (./section4.aux) (./section5.aux)) ) 
+]
+\openout2 = `file_naming_conventions.aux'.
+
+
+(./file_naming_conventions.tex) [8
+
+
+] (./main.aux (./frontespizio.aux)
+(./revision_history.aux) (./software_list.aux) (./data_types_format.aux)
+(./data_storage_access.aux) (./directory_structure.aux)
+(./file_naming_conventions.aux)) ) 
 Here is how much of TeX's memory you used:
  2076 strings out of 492616
- 30066 string characters out of 6129481
- 105040 words of memory out of 5000000
+ 30552 string characters out of 6129481
+ 104040 words of memory out of 5000000
  5939 multiletter control sequences out of 15000+600000
  6278 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,8n,25p,325b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2019/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2019/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (8 pages, 210574 bytes).
+</usr/local/texlive/2019/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (8 pages, 210365 bytes).
 PDF statistics:
  61 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
