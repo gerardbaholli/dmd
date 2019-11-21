@@ -1,30 +1,30 @@
-\contentsline {paragraph}{Purpose}{2}% 
-\contentsline {paragraph}{Creation date}{2}% 
-\contentsline {paragraph}{Current owner}{2}% 
-\contentsline {paragraph}{Last modification}{2}% 
-\contentsline {section}{\numberline {1}Software List}{4}% 
-\contentsline {subsection}{\numberline {1.1}Asset Editing Software}{4}% 
-\contentsline {subsection}{\numberline {1.2}Development Software}{4}% 
-\contentsline {subsection}{\numberline {1.3}Services}{4}% 
-\contentsline {subsection}{\numberline {1.4}Organization Software}{4}% 
-\contentsline {subsection}{\numberline {1.5}Environments}{4}% 
-\contentsline {section}{\numberline {2}Data Types and Format}{5}% 
-\contentsline {subsection}{\numberline {2.1}Text}{5}% 
-\contentsline {subsection}{\numberline {2.2}Pictures}{5}% 
-\contentsline {subsection}{\numberline {2.3}Diagrams}{5}% 
-\contentsline {subsection}{\numberline {2.4}Maps}{5}% 
-\contentsline {subsection}{\numberline {2.5}Release documents}{5}% 
-\contentsline {subsection}{\numberline {2.6}3D Models}{5}% 
-\contentsline {subsection}{\numberline {2.7}Audio files}{5}% 
-\contentsline {section}{\numberline {3}Data Storage and Access}{6}% 
-\contentsline {subsection}{\numberline {3.1}Storing}{6}% 
-\contentsline {subsection}{\numberline {3.2}Backup}{6}% 
-\contentsline {subsection}{\numberline {3.3}Versioning}{6}% 
-\contentsline {subsection}{\numberline {3.4}Public Releases}{6}% 
-\contentsline {subsection}{\numberline {3.5}Setting Up the workspace}{6}% 
-\contentsline {subsubsection}{\numberline {3.5.1}Creation}{6}% 
-\contentsline {subsubsection}{\numberline {3.5.2}Drive connection}{6}% 
-\contentsline {subsubsection}{\numberline {3.5.3}Clone}{6}% 
-\contentsline {subsubsection}{\numberline {3.5.4}Git flow initialization}{6}% 
-\contentsline {section}{\numberline {4}Directory Structure}{7}% 
-\contentsline {section}{\numberline {5}File Naming Conventions}{8}% 
+\contentsline {paragraph}{Purpose}{2}{section*.1}% 
+\contentsline {paragraph}{Creation date}{2}{section*.2}% 
+\contentsline {paragraph}{Current owner}{2}{section*.3}% 
+\contentsline {paragraph}{Last modification}{2}{section*.4}% 
+\contentsline {section}{\numberline {1}Software List}{4}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Asset Editing Software}{4}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Development Software}{4}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}Services}{4}{subsection.1.3}% 
+\contentsline {subsection}{\numberline {1.4}Organization Software}{4}{subsection.1.4}% 
+\contentsline {subsection}{\numberline {1.5}Environments}{4}{subsection.1.5}% 
+\contentsline {section}{\numberline {2}Data Types and Format}{5}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Text}{5}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Pictures}{5}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Diagrams}{5}{subsection.2.3}% 
+\contentsline {subsection}{\numberline {2.4}Maps}{5}{subsection.2.4}% 
+\contentsline {subsection}{\numberline {2.5}Release documents}{5}{subsection.2.5}% 
+\contentsline {subsection}{\numberline {2.6}3D Models}{5}{subsection.2.6}% 
+\contentsline {subsection}{\numberline {2.7}Audio files}{5}{subsection.2.7}% 
+\contentsline {section}{\numberline {3}Data Storage and Access}{6}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Storing}{6}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Backup}{6}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Versioning}{6}{subsection.3.3}% 
+\contentsline {subsection}{\numberline {3.4}Public Releases}{6}{subsection.3.4}% 
+\contentsline {subsection}{\numberline {3.5}Setting Up the workspace}{6}{subsection.3.5}% 
+\contentsline {subsubsection}{\numberline {3.5.1}Creation}{6}{subsubsection.3.5.1}% 
+\contentsline {subsubsection}{\numberline {3.5.2}Drive connection}{6}{subsubsection.3.5.2}% 
+\contentsline {subsubsection}{\numberline {3.5.3}Clone}{6}{subsubsection.3.5.3}% 
+\contentsline {subsubsection}{\numberline {3.5.4}Git flow initialization}{6}{subsubsection.3.5.4}% 
+\contentsline {section}{\numberline {4}Directory Structure}{7}{section.4}% 
+\contentsline {section}{\numberline {5}File Naming Conventions}{8}{section.5}% 
