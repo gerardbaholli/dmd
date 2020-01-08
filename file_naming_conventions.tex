@@ -1,14 +1,17 @@
 \section{File Naming Conventions}
-The purpose of having a convention for file names is to keep the file order constant, the general rule requires never insert a space character ("\ ") but instead insert an underscore ("\_").
+The purpose of having a convention for file names is to keep the file order constant. Below the general rules to be respected:
+\begin{itemize}
+	\item Always use lowercase words to rename files.
+	\item Do not use spaces. Some software will not recognize file names with spaces, and file names with spaces must be enclosed in quotes when using the command line. For this reason never insert a space character ("\ ") but instead insert an underscore ("\_").
+	\item Every file name must respect the format "\textbf{(date\_)chapter\_description(\_number)}". Date and number are to be used only if necessary.
+	\item Special characters such as \textasciitilde\ ! @ \# \$ \% \textasciicircum\ \& * ( ) ` ; < > ? , [ ] \{ \} ' " and | should be avoided.
+	\item When using a sequential numbering system, using leading zeros for clarity and to make sure files sort in sequential order. For example, use "001, 002, ...010, etc." instead of "1, 2, ...10, etc.".
+	\item Try to use 30 or fewer characters whenever possible.
+	\item Every date must be written in the format YYMMDD.
+\end{itemize}
 
-\begin{center}
-	\begin{tabular}[c]{| p{3cm} | p{5cm} | p{5cm} |}
-		\hline
-		\textbf{Type} & \textbf{Rule}  & \textbf{Example}\\
-		\hline
-		Folder & name\_of\_the\_folder & story\_dialogues\\
-		\hline
-		File & name\_function.format & bad\_eleven\_circulmplex.png\\
-		\hline
-	\end{tabular}
-\end{center}
+Some examples can be:
+\\\\
+\texttt{world\_diagram\_graph.png}\\
+\texttt{giant\_chasm\_ambient\_sound\_03.mp3}\\
+\texttt{191114\_circumplex\_bad\_eleven.sketch}\\
